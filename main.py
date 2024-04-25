@@ -79,7 +79,7 @@ conocimientostecnicos = [
     {"Tecnología": ".NET DESKTOP", "Experiencia": 2, "Nivel": "3. Intermedio"},
     {"Tecnología": "JAVASCRIPT", "Experiencia": 3, "Nivel": "3. Intermedio"},
     {"Tecnología": "HTML5", "Experiencia": 3, "Nivel": "3. Intermedio"},
-    {"Tecnología": "API", "Experiencia": 1, "Nivel": "3. Intermedio"}
+    {"Tecnología": "API", "Experiencia": 1, "Nivel": "3. Intermedio".}
 ]
 
 generate_cv(apellido, nombre, resumen, experienciasneoris, experienciasnoneoris, educacion, capacitaciones, conocimientostecnicos)
